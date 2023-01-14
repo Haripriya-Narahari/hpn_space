@@ -7,7 +7,7 @@ The tweets are clustered using k-means algorithm into 5 main clusters. This tech
 ### Implementation
 
 #### Authentication
-Twitter uses Open Authentication (OAuth) to grant access to the information. To setup the authentication, setup_twitter_oauth() function is to be used which takes consumer_key, consumer_secret, access_token and access_secret as the parameters. These parameters are generally provided by Twitter after we gain developer access. setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
+Twitter uses Open Authentication (OAuth) to grant access to the information. To setup the authentication, setup_twitter_oauth() function is to be used which takes consumer_key, consumer_secret, access_token and access_secret as the parameters. These parameters are generally provided by Twitter after we gain developer access. 
 
 #### Data Retrieval:
 
